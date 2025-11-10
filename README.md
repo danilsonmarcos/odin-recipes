@@ -1,2 +1,2 @@
 # odin-recipes
-This project was created for HTML practicing.
+I started this project because I just wanted to practice some HTML basics and some GitHub/Git skills 
